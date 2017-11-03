@@ -1,6 +1,6 @@
 # Clone the repository
 	cd ~/git
-	git clone https://github.com/sugizo/jigsaw
+	git clone https://github.com/sugizo/jigsaw_build
 
 # Create File
 	cd jigsaw
